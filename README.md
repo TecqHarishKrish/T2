@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exam Portal - Full Stack Application
 
 A complete exam management system built with MERN stack (MongoDB, Express, React, Node.js).
@@ -174,3 +175,6 @@ MONGODB_URI=mongodb://localhost:27017/exam-portal
 ## License
 
 This project is licensed under the ISC License.
+=======
+# T2
+>>>>>>> f3aa99d8ad7813ffc7accfbb32b77a00df8092bb
